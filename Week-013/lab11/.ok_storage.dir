@@ -1,0 +1,6 @@
+'scale-correct', (0, 70)
+'hailstone-correct', (512, 70)
+'repeated-correct', (1024, 70)
+'merge-correct', (1536, 70)
+'remainders_generator-correct', (2048, 70)
+'zip_generator-correct', (2560, 70)
